@@ -1,0 +1,42 @@
+
+.row{   
+
+    background-color:black;
+    color:white;
+    font-size:20px;
+}
+.headshot{
+    width:20%;
+   
+}
+.mid{
+    background-color:white;
+    color:black;
+    align-items:center;
+    font-size:50px;
+    margin-top:5px;
+    margin-bottom:5px;
+}
+.aboutme{
+    border:1px solid black;   
+}
+
+#name{
+    color:#101e1b;
+}
+
+.intro{
+    background-color:#101e1b;
+    text-align:center;
+    
+}
+
+body{
+    background-image: url(https://cdn48.picsart.com/176377507000202.gif?r1024x1024
+    );
+}
+
+
+
+
+
