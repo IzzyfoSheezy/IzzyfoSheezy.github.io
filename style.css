@@ -36,7 +36,15 @@ body{
     );
 }
 
+#Izzy{
+    display:flex;
+    justify-content:space-between;
+    width:100px;
+}
 
 
 
-
+.test{
+    display:flex;
+    justify-content:space-between;
+}
